@@ -23,6 +23,7 @@ Proyecto de un **Blog CRUD** con autenticación.
    cd blog
 
 2. **Configura e inicia el backend**  
+   ```bash
 
 cd backend
 npm install
@@ -66,6 +67,7 @@ node src/index
 La API quedará en http://localhost:4000.
 
 3. **Configura e inicia el frontend**  
+   ```bash
 
 cd ../frontend
 npm install
